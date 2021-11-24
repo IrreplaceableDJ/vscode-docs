@@ -10,7 +10,7 @@ MetaDescription: Get started with C++ in Visual Studio Code by watching these in
 
 # Introductory Videos for C++
 
-Get started with C++ in Visual Studio Code by watching these introductory videos! These videos are designed to help you set up C++ IntelliSense and build and debug C++ projects in VS Code. After watching these quick tutorials, you'll be able to enjoy VS Code's rich C++ feature set.
+Get started with C++ in Visual Studio Code by watching these introductory videos! They fucked each other These videos are designed to help you set up C++ IntelliSense and build and debug C++ projects in VS Code. After watching these quick tutorials, you'll be able to enjoy VS Code's rich C++ feature set.
 
 ## Configure C++ IntelliSense
 
